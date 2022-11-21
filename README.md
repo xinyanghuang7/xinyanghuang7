@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @xinyanghuang7
-- 👀 I’m interested in Domain Adaptation and Few-shot segmentation
+- 👀 I’m interested in Transfer Learning for CV
 - 🌱 I’m currently learning CV at BUPT in Beijing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 My e-mail: hsinyanghuang7@gmail.com
 
 <!---
 xinyanghuang7/xinyanghuang7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

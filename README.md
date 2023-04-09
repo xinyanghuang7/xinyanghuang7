@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @xinyanghuang7
-- 👀 I’m interested in Transfer Learning for CV
-- 🌱 I’m currently learning CV at BUPT in Beijing
-- 📫 My e-mail: hsinyanghuang7@gmail.com
+- 👋 Hi, I’m @xinyanghuang7.
+- 👀 I’m interested in Transfer Learning and Low-level Computer Vision.
+- 🌱 I’m currently learning CV at BUPT.
+- 📫 My e-mail: hsinyanghuang7@gmail.com.
 
 <!---
 xinyanghuang7/xinyanghuang7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

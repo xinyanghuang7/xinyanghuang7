@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xinyanghuang7.
 - 👀 I’m interested in Transfer Learning and Low-level Computer Vision.
-- 🌱 I’m currently learning CV at BUPT.
+- 🌱 I’m currently learning DL at BUPT.
 - 📫 My e-mail: hsinyanghuang7@gmail.com.
 
 <!---

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xinyanghuang7.
-- 👀 I’m interested in Transfer Learning, Computer Vision and Multimodel Learning.
+- 👀 I’m interested in Transfer Learning, Computer Vision and Multi-modal Learning.
 - 🌱 I’m currently learning deeplearning at BUPT.
 - 📫 My e-mail: hsinyanghuang7@gmail.com.
 

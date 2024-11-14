@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Xinyang(@xinyanghuang7).  
   Passionate about exploring the intersection of AI and real-world applications.
 
-- 🔍 My research interests include multi-modal large models, computer vision, transfer learning, and related fields.  
+- 🔍 My research interests include **multi-modal large models, computer vision, transfer learning**, and related fields.  
   I’m particularly excited about how these technologies can reshape industries and enhance human-computer interactions.
 
 - 🌱 I’m currently studying Artificial Intelligence at Beijing University of Posts and Telecommunications.  
